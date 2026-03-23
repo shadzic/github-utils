@@ -1,0 +1,2 @@
+# To find your local public key
+cat ~/.ssh/id_rsa.pub
